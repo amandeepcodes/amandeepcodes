@@ -1,4 +1,4 @@
-[HeaderImage]
+[HeaderImage] (https://github.com/amandeepcodes/amandeepcodes/blob/main/header.jpg)
 # Hi there 👋, I'm Aman Deep
 
 I'm a Software Engineer Interested in building Mobile applications. 
@@ -14,10 +14,10 @@ I'm a Software Engineer Interested in building Mobile applications.
 #Connect with me 
 
 <p align="left">
-<a href="https://g.dev/amandeep" target="blank"><img align="center" src="" alt="@amandeepcodes" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/imamandeep/" target="blank"><img align="center" src="" alt="imamandeep" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/2362301/ammy" target="blank"><img align="center" src="" alt="ammy" height="30" width="40" /></a>
-<a href="https://medium.com/@dev.amanchugh" target="blank"><img align="center" src="" alt="@yazantarifi98" height="30" width="40" /></a>
+<a href="https://g.dev/amandeep" target="blank"><img align="center" src="https://github.com/amandeepcodes/amandeepcodes/blob/main/android.svg" alt="@amandeepcodes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imamandeep/" target="blank"><img align="center" src="https://github.com/amandeepcodes/amandeepcodes/blob/main/linkedin.svg" alt="imamandeep" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2362301/ammy" target="blank"><img align="center" src="https://github.com/amandeepcodes/amandeepcodes/blob/main/stackOverflow.svg" alt="ammy" height="30" width="40" /></a>
+<a href="https://medium.com/@dev.amanchugh" target="blank"><img align="center" src="https://github.com/amandeepcodes/amandeepcodes/blob/main/medium.svg" alt="@dev.amanchugh" height="30" width="40" /></a>
 </p>
 
 
