@@ -1,12 +1,11 @@
-[HeaderImage] (https://github.com/amandeepcodes/amandeepcodes/blob/main/header.jpg)
+![HeaderImage](https://github.com/amandeepcodes/amandeepcodes/blob/main/header.jpg)
 # Hi there 👋, I'm Aman Deep
 
 I'm a Software Engineer Interested in building Mobile applications. 
  
 
-- 🔭 I’m currently working looking for new opportunity
+- 🔭 I’m currently working looking for new Opportunities
 - 🌱 I’m currently learning Jetpack Compose
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about Android Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imamandeep)
